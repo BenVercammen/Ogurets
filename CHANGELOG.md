@@ -1,3 +1,8 @@
+4.0.2
+=====
+* Automatically replace placeholders in example scenario table columns with exampleRow values 
+in "table" param, instead of requiring users to look up and replace using the "exampleRow" param
+
 4.0.0
 =====
 * updated to support null safety
